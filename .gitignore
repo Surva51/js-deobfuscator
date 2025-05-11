@@ -1,0 +1,40 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Temporary files
+.cache/
+tmp/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Mac OS files
+.DS_Store
+
+# Claude specific files
+.claude/
+.claude.json
+.mcp.json
+
+# Other
+*.bak
+*.tmp
+
+# Large files exceeding GitHub limits
+stripped/business-logic.js
+cli.pretty.js
+modified-cli-pretty.js
+prettified/cli-pretty*.js
+prettified/cli-proper.js
+deobfuscated-cli.js
