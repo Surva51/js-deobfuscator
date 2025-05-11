@@ -1,0 +1,15 @@
+{
+  "original": {
+    "path": "/root/js-deobfuscator/cli.js",
+    "size": "6748.71 KB"
+  },
+  "deobfuscated": {
+    "path": "/root/js-deobfuscator/deobfuscated-cli.js",
+    "size": "6781.60 KB"
+  },
+  "analysis": {
+    "extractedComponents": 4,
+    "mappedVariables": 68
+  },
+  "timestamp": "2025-05-11T10:38:32.844Z"
+}
